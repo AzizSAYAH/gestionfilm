@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Gestionnaire-de-film-main/src"/>
+	<classpathentry kind="lib" path="Gestionnaire-de-film-main/dist/ReviewFilms.jar"/>
+	<classpathentry kind="output" path="Gestionnaire-de-film-main/build/classes"/>
+</classpath>
